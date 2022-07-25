@@ -1,0 +1,26 @@
+{
+  "name": "cypress10-project",
+  "version": "1.0.0",
+  "description": "Projeto de cypress para demonstrar arquitetura e conhecimento da ferramenta",
+  "main": "cypress open",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carvalhogsc/cypress10-project.git"
+  },
+  "keywords": [
+    "cypress10",
+    "cypress",
+    "e2e",
+    "front",
+    "api"
+  ],
+  "author": "Guilherme Sebastião de Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carvalhogsc/cypress10-project/issues"
+  },
+  "homepage": "https://github.com/carvalhogsc/cypress10-project#readme"
+}
