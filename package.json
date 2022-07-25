@@ -4,7 +4,8 @@
   "description": "Projeto de cypress para demonstrar arquitetura e conhecimento da ferramenta",
   "main": "cypress open",
   "scripts": {
-    "test": "cypress run"
+    "test:homolog": "cypress run --env configFile=homolog",
+    "test:develop": "cypress run --env configFile=develop"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,8 @@
   "homepage": "https://github.com/carvalhogsc/cypress10-project#readme",
   "devDependencies": {
     "cypress": "^10.3.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
