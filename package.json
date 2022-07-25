@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/carvalhogsc/cypress10-project/issues"
   },
-  "homepage": "https://github.com/carvalhogsc/cypress10-project#readme"
+  "homepage": "https://github.com/carvalhogsc/cypress10-project#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
 }
